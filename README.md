@@ -16,15 +16,6 @@ Happy learning. :+1:
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/aritraroy/ultimate-android-reference/blob/master/LICENSE)
 
-## Recommended SDK for Bug and Crash Reporting - [Instabug](https://try.instabug.com/android/?utm_source=androidref&utm_medium=spon&utm_content=header)
-
-[![instabug-visual-repro-steps](https://user-images.githubusercontent.com/9888943/40114739-4e0ff416-590e-11e8-9a29-55fb2d4cfebc.png)](https://try.instabug.com/android/?utm_source=androidref&utm_medium=spon&utm_content=banner)
-
-> Instabug has just released their visual repro steps feature to enable you to trace all the views that the user interacted with before a bug or a crash occurred. This will help you reproduce bugs and fix them 10x faster.<br>
-We highly recommend integrating Instabug’s framework as they compiled a lot of other great features providing you with useful and rich data attached to each bug or crash report. [_Learn more._ ](https://try.instabug.com/android/?utm_source=androidref&utm_medium=spon&utm_content=learn-more)🚀
-[![](https://instabug-ga.appspot.com/UA-41982088-6/github/ultimateAndroidReference?pixel)](https://instabug.com)
-
-
 ## Contribution Guide
 
 This project is open to all kinds of contribution in all of its categories. **Together, we can make it the ultimate Android reference available for free, for everyone, forever.**
@@ -146,6 +137,7 @@ and Android apps
 ### Image Loading
 
 * [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images on Android
+* [Coil](https://github.com/coil-kt/coil) - An image loading library for Android backed by Kotlin Coroutines.
 * [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use
 * [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 * [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
